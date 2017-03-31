@@ -23,5 +23,5 @@ Dependencies
 Todo
 ----
 
-- [x] Test todo list
-- [ ] Test todo list
+* [x] Test todo list
+* [ ] Test todo list
