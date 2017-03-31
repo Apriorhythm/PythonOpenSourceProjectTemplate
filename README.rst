@@ -19,3 +19,9 @@ Dependencies
 * pytest: https://github.com/pytest-dev/pytest
 * tox: https://tox.readthedocs.io/en/latest/
 * sphinx: http://www.sphinx-doc.org/en/stable/
+
+Todo
+----
+
+- [x] Test todo list
+- [ ] Test todo list
